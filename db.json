@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Do something useful",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting at school",
+      "day": "March 3rd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food preparation",
+      "day": "March 2nd at 11:30am",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Dancing class",
+      "day": "March 6nd at 20:00pm",
+      "reminder": true
+    },
+    {
+      "text": "New Task",
+      "day": "New Task",
+      "reminder": true,
+      "id": "ooVqGMa"
+    }
+  ]
+}
